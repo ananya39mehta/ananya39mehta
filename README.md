@@ -43,7 +43,9 @@
 - **Layman’s Justice** – AI chatbot to simplify legal language (Flask + React + RAG + BERT).  
 - **SafeVision** – Real-time violence detection with CNN-LSTM & ResNet50 (90%+ accuracy).  
 - **Respira-Rhythm** – Lung sound classifier for asthma, COPD, pneumonia (90%+ accuracy).  
-- **Library Management System** – Flask + PostgreSQL + MongoDB + Docker backend system.  
+- **Library Management System** – Flask + PostgreSQL + MongoDB + Docker backend system.
+- **Movie Booking System** - JavaFx + Postgresql
+
 
 ---
 
