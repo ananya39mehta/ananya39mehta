@@ -1,6 +1,7 @@
 # 👩‍💻 Hey there, I'm Ananya Mehta! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+Developer+%7C+Deep+Learning+%7C+LLMs;Exploring+AI+for+Healthcare+%26+Finance;Passionate+about+CV+%26+Generative+Models)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=700&lines=AI+Developer+%7C+Deep+Learning+%7C+LLMs;Exploring+AI+in+Healthcare+%2C+Finance+%26+Beyond;Passionate+about+Computer+Vision+%26+Generative+Models)](https://git.io/typing-svg)
+
 
 ---
 
