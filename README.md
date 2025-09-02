@@ -48,16 +48,10 @@
 ---
 
 ## 📈 GitHub Stats
-![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananya39mehta&show_icons=true&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=ananya39mehta&theme=radical)](https://git.io/streak-stats)  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ananya39mehta&theme=react-dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ananya39mehta&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=ananya39mehta&theme=radical)](https://git.io/streak-stats)  
 
----
-
-## 🏆 Certifications
-- **Operating Systems and You: Becoming a Power User** – Google  
-- **Agile Project Management** – Google  
-- **Google Cloud Computing Foundations** – Google  
 
 ---
 
