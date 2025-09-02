@@ -27,10 +27,7 @@
 
 ---
 
-## 💼 Experience
-- **AI Developer (Part-time)** @ *PMB Digital, Heidelberg, DE* (Jun 2025 – Present)  
-   - Building & deploying AI models for **healthcare platforms**.  
-   - Collaborating with an academic team on **patient data insights & clinical decision support**.  
+## 💼 Experience  
 
 - **Project Trainee** @ *Bhabha Atomic Research Centre, Mumbai, IN* (Dec 2024 – Jan 2025)  
    - Worked on **image segmentation** with YOLOv8, SAM, FastSAM.  
@@ -69,4 +66,4 @@
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananya39mehta@gmail.com)  
 
 ---
-![Snake Animation](https://github.com/ananya39mehta/ananya39mehta/blob/output/github-contribution-grid-snake.svg)
+
