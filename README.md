@@ -58,7 +58,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ananya39mehta&theme=radical)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya39mehta&layout=compact&theme=radical)
 
-![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananya39mehta&show_icons=true&theme=radical)
+
 
 
 
